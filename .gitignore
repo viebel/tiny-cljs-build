@@ -1,0 +1,13 @@
+figwheel_server.log
+klipse-access-logs/
+resources/private/
+resources/public/cards
+resources/public/dbg
+resources/public/fig
+resources/public/dev
+resources/public/plugin
+resources/public/plugin_prod
+target/
+.lein-repl-history
+*-init.clj
+*.swp
